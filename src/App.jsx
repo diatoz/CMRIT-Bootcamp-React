@@ -12,6 +12,9 @@ function App() {
         <Link to="/signup" className="nav-link">
           SignUp
         </Link>
+        <Link to="/courses" className="nav-link">
+          Courses
+        </Link>
       </div>
     </div>
   );
